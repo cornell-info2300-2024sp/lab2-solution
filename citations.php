@@ -1,5 +1,8 @@
 <?php
-$page_title = 'Citations <code>';
+$page_title = 'Citations';
+
+$nav_home_class = '';
+$nav_citations_class = 'active_page';
 ?>
 <!DOCTYPE html>
 <html lang="en">

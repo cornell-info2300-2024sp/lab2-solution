@@ -3,8 +3,8 @@
 
   <nav id="menu">
     <ul>
-      <li class="active_page"><a href="index.php">Home</a></li>
-      <li class=""><a href="citations.php">Citations</a></li>
+      <li class="<?php echo $nav_home_class; ?>"><a href="index.php">Home</a></li>
+      <li class="<?php echo $nav_citations_class; ?>"><a href="citations.php">Citations</a></li>
     </ul>
   </nav>
 </header>

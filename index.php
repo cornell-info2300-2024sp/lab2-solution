@@ -1,5 +1,8 @@
 <?php
-$Page_Title = 'Home';
+$page_title = 'Home';
+
+$nav_home_class = 'active_page';
+$nav_citations_class = '';
 ?>
 <!DOCTYPE html>
 <html lang="en">
